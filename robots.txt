@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://framecutx.github.io/sitemap.xml
