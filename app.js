@@ -5,8 +5,8 @@ document.documentElement.classList.add("js");
 
   var RELEASE_API = "https://api.github.com/repos/framecutX/FrameCut/releases/latest";
   var RELEASES_URL = "https://github.com/framecutX/FrameCut/releases";
-  var FALLBACK_TAG = "v1.0.2+6";
-  var FALLBACK_HASH = "b3f84feaa8b824ebbf2e0c653bde3288f3ddbda3be0aee1a54f234e41ffb7ccb";
+  var FALLBACK_TAG = "v1.0.3+8";
+  var FALLBACK_HASH = "533cf616d11d85b55b95f61433c6b0c87d97ee5253b9eeae29de66c9a0f6ccab";
 
   function each(selector, callback) {
     Array.prototype.forEach.call(document.querySelectorAll(selector), callback);
